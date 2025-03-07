@@ -32,7 +32,7 @@ def main():
                   'numpy',
                   'pandas',
                   'matplotlib',
-                  'scikit-learn',
+                  'sklearn',
                   'argparse',
                   'seaborn'],
           zip_safe = True
